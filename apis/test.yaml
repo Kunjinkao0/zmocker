@@ -1,0 +1,9 @@
+method: "get"
+
+request:
+  headers:
+    auth: "fdsafda"
+    content-type: "fdsafda"
+
+response:
+  body: { "a": 1, "b": 2, "c": 3 }
