@@ -1,0 +1,8 @@
+method: 'get'
+
+request:
+  headers:
+    content-type: 'application/json'
+
+response:
+  body: { 'result': 'ok' }
